@@ -10,6 +10,7 @@ Link to folder *Educational_Examples*: [Educational_Examples](/Educational_Examp
 Link to GitHub repository of the German Association of Actuaries [https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases]
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 
-Link to folder *Reimplementations*: [Reimplementations](/Reimplementations)
-
-Link to folder *Use_Cases*: [Use_Cases](/Use_Cases)
+| # | Date Added | Member Association | Title | Primary Contents | Secondary Contents |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| 1 | 2024/05/08 | DAV (GER) | Binary Classification: Credit Scoring | Machine Learning; Classification | Explainable AI; Hyperparameter Tuning
+| 2 | 2024/05/08 | SAV (SUI) | SHAP for Actuaries: Explain Any Model | Explainable AI; Interpretable ML | Regression; Synthetic Data
