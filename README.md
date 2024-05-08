@@ -12,5 +12,5 @@ Link to GitHub repository of the German Association of Actuaries [https://github
 
 | # | Date Added | Link | Member Association | Title | Primary Contents | Secondary Contents |
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 2024/05/08 | [Link]([https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases/](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases/blob/main/binary-classification-credit-scoring.ipynb) | DAV (GER) | Binary Classification: Credit Scoring | Machine Learning; Classification | Explainable AI; Hyperparameter Tuning
-| 2 | 2024/05/08 | [Link](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases/blob/main/binary-classification-credit-scoring.ipynb) | SAV (SUI) | SHAP for Actuaries: Explain Any Model | Explainable AI; Interpretable ML | Regression; Synthetic Data
+| 1 | 2024/05/08 | [Link](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases/blob/main/binary-classification-credit-scoring.ipynb) | DAV (GER) | Binary Classification: Credit Scoring | `Machine Learning` `Classification` | `Explainable AI` `Hyperparameter Tuning`
+| 2 | 2024/05/08 | [Link](https://github.com/DeutscheAktuarvereinigung/ADS_Use_Cases/blob/main/binary-classification-credit-scoring.ipynb) | SAV (SUI) | SHAP for Actuaries: Explain Any Model | `Explainable AI` `Interpretable ML` | `Regression` `Synthetic Data`
