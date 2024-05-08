@@ -1,4 +1,4 @@
-<img src="logo.png" width="250px">
+<img src="logo.png">
 
 <br>
 <p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">Working Group <i>Explainable Artificial Intelligence</i></p>
