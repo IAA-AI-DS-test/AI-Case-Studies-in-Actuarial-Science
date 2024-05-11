@@ -2,10 +2,8 @@
 
 <br>
 <p style="font-size:19px; text-align:left; margin-top: 15px; margin-bottom: 15px">IAA Taskforce <i>Artificial Intelligence</i></p>
-<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>AI Actuarial Use Cases</b></p>
+<p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>AI Case Studies in Actuarial Science</b></p>
 <br>
-
-List of AI Use Cases and Case Studies in the Actuarial Field:
 
 | # | Date&nbsp;Added | Author | Title | Resource(s) | Nature | Level | Primary&nbsp;Topics | Secondary&nbsp;Topics | Language(s) | Programming Language(s) | Methods&nbsp;and/or&nbsp;Models | Notes
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
