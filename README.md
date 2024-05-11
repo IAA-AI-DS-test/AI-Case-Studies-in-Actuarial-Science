@@ -5,7 +5,7 @@
 <p style="font-size:25px; text-align:left; margin-bottom: 25px"><b>AI Case Studies in Actuarial Science</b></p>
 <br>
 
-| # | Date&nbsp;Added | Author | Title | Resource(s) | Nature | Level | Primary&nbsp;Topics | Secondary&nbsp;Topics | Language(s) | Programming Language(s) | Methods&nbsp;and/or&nbsp;Models | Notes
+| # | Date&nbsp;Added | Author | Title | Resource(s) | Type | Level | Primary&nbsp;Topics | Secondary&nbsp;Topics | Language(s) | Programming Language(s) | Methods&nbsp;and/or&nbsp;Models | Notes
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 2024-05-08 | DAV&nbsp;🇩🇪 | Binary&nbsp;Classification: Credit&nbsp;Scoring | [Notebook](https://kaggle.com/code/floser/binary-classification-credit-scoring) | Case Study | Advanced | `Machine Learning` `Classification` | `Explainable AI` `Hyperparameter Tuning` `GPU Usage` | English | Python | CatBoost, XGBoost, LightGBM, Deep Learning, Logarithmic Regression, SHAP | –
 | 2 | 2024-05-08 | SAV&nbsp;🇨🇭 | SHAP&nbsp;for&nbsp;Actuaries: Explain Any Model | [Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389797), <br> [Notebook](https://github.com/actuarial-data-science/Tutorials/tree/master/14%20-%20SHAP) | Educational | Advanced | `Explainable AI` `Interpretable ML` | `Regression` `Synthetic Data` `Claims Prediction` | English | Python, R | GLM, LightGBM, Deep Learning, SHAP | –
