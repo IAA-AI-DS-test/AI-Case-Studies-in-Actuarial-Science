@@ -14,5 +14,5 @@
 
 *Notes:*
 - *The dates are formatted in ISO 8601 standard (*`YYYY-MM-DD`*).*
-- *The "Author" field incorporates both the individual author and the member association.*
-- *The "Resource(s)" field provides direct links to articles and code repositories.*
+- *The "Author" column incorporates both the individual author and the member association.*
+- *The "Resource(s)" column provides direct links to articles and code repositories.*
