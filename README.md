@@ -15,6 +15,6 @@ List of AI Use Cases and Case Studies in the Actuarial Field:
 | 4 | 2024-05-11 | Caesar&nbsp;Balona&nbsp;🇿🇦 | Case&nbsp;Study&nbsp;2: Identifying&nbsp;Emerging&nbsp;Risks | [Article](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi_toXSoYWGAxXUVPEDHcPkAOI4ChAWegQICxAB&url=https%3A%2F%2Factuaries.org.uk%2Fmedia%2Fpurp2kk5%2Factuary-gpt-applications-of-large-language-models-to-insurance-and-actuarial-work.pdf&usg=AOvVaw1KRTDCIgv9IHZ5XlztvoWk&opi=89978449), <br> [Code](https://github.com/cbalona/actuarygpt-code/tree/main/case-study-2) | Case Study | Beginner | `Large Language Models` | `Text Generation` | English | Python | ChatGPT with GPT-4 | –
 
 *Notes:*
-- *The dates are formatted in ISO 8601 standard (`YYYY-MM-DD`).*
+- *The dates are formatted in ISO 8601 standard (*`YYYY-MM-DD`*).*
 - *The "Author" field incorporates both the individual author and the member association.*
 - *The "Resource(s)" field provides direct links to articles and code repositories.*
