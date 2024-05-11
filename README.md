@@ -7,7 +7,7 @@
 
 List of AI Use Cases and Case Studies in the Actuarial Field:
 
-| # | Date&nbsp;Added | Author | Title | Resource(s) | Level | Primary Contents | Secondary Contents | Language(s) | Programming Language(s) | Methods and/or Models | Notes
+| # | Date&nbsp;Added | Author | Title | Resource(s) | Level | Primary&nbsp;Contents | Secondary&nbsp;Contents | Language(s) | Programming Language(s) | Methods&nbsp;and/or&nbsp;Models | Notes
 | ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1 | 2024-05-08 | DAV 🇩🇪 | Binary Classification: Credit Scoring | [Notebook](https://kaggle.com/code/floser/binary-classification-credit-scoring) | Advanced | `Machine Learning` `Classification` | `Explainable AI` `Hyperparameter Tuning` `GPU Usage` | English | Python | CatBoost, XGBoost, LightGBM, Deep Learning, Logarithmic Regression, SHAP | –
 | 2 | 2024-05-08 | SAV 🇨🇭 | SHAP for Actuaries: Explain Any Model | [Article](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4389797), <br> [Notebook](https://github.com/actuarial-data-science/Tutorials/tree/master/14%20-%20SHAP) | Advanced | `Explainable AI` `Interpretable ML` | `Regression` `Synthetic Data` `Claims Prediction` | English | Python, R | GLM, LightGBM, Deep Learning, SHAP | –
