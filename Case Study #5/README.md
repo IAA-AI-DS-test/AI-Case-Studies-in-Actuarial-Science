@@ -4,6 +4,7 @@ A Case Study on Medical Costs Data</b></p>
 <p style="font-size:19px; text-align:left; margin-bottom: 15px; margin-bottom: 25px">Dr. Simon Hatzesberger (<a href="mailto:simon.hatzesberger@gmail.com">simon.hatzesberger@gmail.com</a>)
 
 <br>
+<br>
 
 
 <i>
