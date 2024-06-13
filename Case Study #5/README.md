@@ -12,11 +12,13 @@ In this Jupyter Notebook, we offer a practical walkthrough for actuaries and dat
 </i>
 
 <br>
+<br>
 
 <i>
 It illuminates both global methods—such as surrogate models, PDPs, ALE plots, and permutation feature importances—for macro-level understanding of model behavior, and local methods—like SHAP, LIME, and ICE plots—for micro-level insights on individual predictions.
 </i>
 
+<br>
 <br>
 
 <i>
