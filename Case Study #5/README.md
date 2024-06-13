@@ -9,19 +9,7 @@ A Case Study on Medical Costs Data</b></p>
 
 <i>
 In this Jupyter Notebook, we offer a practical walkthrough for actuaries and data scientists on applying model-agnostic explainability methods to regression tasks, with a medical costs dataset serving as our case study.
-</i>
-
-<br>
-<br>
-
-<i>
 It illuminates both global methods—such as surrogate models, PDPs, ALE plots, and permutation feature importances—for macro-level understanding of model behavior, and local methods—like SHAP, LIME, and ICE plots—for micro-level insights on individual predictions.
-</i>
-
-<br>
-<br>
-
-<i>
 The notebook provides practical code examples that readers can easily adopt, thereby providing a user-friendly introduction to using XAI methods to enhance transparency and reliability of their predictive models.
 </i>
 
